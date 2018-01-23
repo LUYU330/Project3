@@ -22,7 +22,7 @@ $(document).ready(function(){
   );
   $('#drag2').hover(
     function(){
-    $(this).append(( "<span>Play Phone before GettingUp!</span>" ));
+    $(this).append(( "<span>Play Phone!</span>" ));
     },
     function(){
     $(this).find("span:last").remove();
@@ -38,7 +38,7 @@ $(document).ready(function(){
   );
   $('#drag4').hover(
     function(){
-    $(this).append(( "<span>Time for Shower!</span>" ));
+    $(this).append(( "<span>Shower Time!</span>" ));
     },
     function(){
     $(this).find("span:last").remove();
@@ -62,7 +62,7 @@ $(document).ready(function(){
   );
   $('#drag7').hover(
     function(){
-    $(this).append(( "<span>Play Computer Games!</span>" ));
+    $(this).append(( "<span>Play Games!</span>" ));
     },
     function(){
     $(this).find("span:last").remove();
@@ -70,7 +70,7 @@ $(document).ready(function(){
   );
   $('#drag8').hover(
     function(){
-    $(this).append(( "<span>Have a Relax!</span>" ));
+    $(this).append(( "<span>Relax Time!</span>" ));
     },
     function(){
     $(this).find("span:last").remove();
@@ -94,7 +94,7 @@ $(document).ready(function(){
   );
   $('#drag11').hover(
     function(){
-    $(this).append(( "<span>Finally Can Take a Shower!</span>" ));
+    $(this).append(( "<span>Shower Again!</span>" ));
     },
     function(){
     $(this).find("span:last").remove();
@@ -102,7 +102,7 @@ $(document).ready(function(){
   );
   $('#drag12').hover(
     function(){
-    $(this).append(( "<span>Best Time of One Day!</span>" ));
+    $(this).append(( "<span>Phone Again!</span>" ));
     },
     function(){
     $(this).find("span:last").remove();
