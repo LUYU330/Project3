@@ -1,0 +1,103 @@
+#background {
+  background-image:url(img/plan.jpg);
+  background-size:cover;
+  width: 95%;
+  height: 100%;
+  position: absolute;
+  left: 70px;
+  top: 120px;
+}
+p {
+  font-family: 'Hammersmith One', sans-serif;
+  width:95%;
+  text-align: center;
+  font-size: 35px;
+  top:30px;
+  left:70px;
+  position: absolute;
+  text-transform: uppercase;
+}
+#drag1 {
+  width: 400px;
+  height: 70px;
+  top:40px;
+  position:relative;
+  cursor: move;
+}
+#drag2 {
+  width: 400px;
+  height: 70px;
+  top:40px;
+  position:relative;
+  cursor: move;
+}
+#drag3 {
+  width: 400px;
+  height: 70px;
+  top:40px;
+  position:relative;
+  cursor: move;
+}
+#drag4 {
+  width: 400px;
+  height: 70px;
+  top:40px;
+  position:relative;
+  cursor: move;
+}
+#drag5 {
+  width: 400px;
+  height: 70px;
+  top:40px;
+  position:relative;
+  cursor: move;
+}
+#drag6 {
+  width: 400px;
+  height: 70px;
+  top:40px;
+  position:relative;
+  cursor: move;
+}
+#drag7 {
+  width: 400px;
+  height: 70px;
+  top:40px;
+  position: relative;
+  cursor: move;
+}
+#drag8 {
+  width: 400px;
+  height: 70px;
+  top:40px;
+  position:relative;
+  cursor: move;
+}
+#drag9 {
+  width: 400px;
+  height: 70px;
+  top:40px;
+  position:relative;
+  cursor: move;
+}
+#drag10 {
+  width: 400px;
+  height: 70px;
+  top:40px;
+  position:relative;
+  cursor: move;
+}
+#drag11 {
+  width: 400px;
+  height: 70px;
+  top:40px;
+  position:relative;
+  cursor: move;
+}
+#drag12 {
+  width: 400px;
+  height: 70px;
+  top:40px;
+  position:relative;
+  cursor: move;
+}
